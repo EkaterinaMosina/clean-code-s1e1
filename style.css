@@ -36,6 +36,10 @@ button {
   width: 500px;
   margin: 0 auto 0;
 }
+.add-task {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
 .task,
 .text {
   width: 56%;
